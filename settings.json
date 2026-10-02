@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ServerYuragi",
+    "username": "Jura",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mineweak.aternos.me",
+    "ip": "weakuz.aternos.me",
     "port": 15777,
     "version": "1.20.1"
   },
